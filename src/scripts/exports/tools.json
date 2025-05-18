@@ -1,0 +1,914 @@
+[
+  {
+    "_id": "682959d6c2ed76e742266be9",
+    "title": "Midjourney",
+    "description": "一个探索新型思维模式为扩展人类想象力的工具。",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎨",
+    "category": "最新推荐",
+    "subCategory": "最新推荐",
+    "url": "https://www.midjourney.com",
+    "createdAt": "2025-05-18T03:53:58.722Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": 1,
+    "lastUpdated": "2025-05-18T03:53:58.723Z"
+  },
+  {
+    "_id": "682959d6c2ed76e742266bea",
+    "title": "Stable Diffusion 3",
+    "description": "新一代文本到图像生成AI模型",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🖼️",
+    "category": "最新推荐",
+    "subCategory": "最新推荐",
+    "url": "https://stability.ai",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266beb",
+    "title": "Claude 3",
+    "description": "Anthropic 最新发布的AI助手，支持多模态输入",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🤖",
+    "category": "最新推荐",
+    "subCategory": "最新推荐",
+    "url": "https://claude.ai",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bec",
+    "title": "ChatGPT",
+    "description": "OpenAI开发的AI对话模型",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "💬",
+    "category": "最新推荐",
+    "subCategory": "最新推荐",
+    "url": "https://chat.openai.com",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bed",
+    "title": "GitHub Copilot",
+    "description": "AI驱动的代码智能助手",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🐙",
+    "category": "最新推荐",
+    "subCategory": "最新推荐",
+    "url": "https://github.com/features/copilot",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bee",
+    "title": "Midjourney绘画",
+    "description": "一个探索新型思维模式为扩展人类想象力的工具。",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎨",
+    "category": "AI绘画",
+    "subCategory": "热门推荐",
+    "url": "https://www.midjourney.com",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bef",
+    "title": "Stable Diffusion绘画",
+    "description": "新一代文本到图像生成AI模型",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🖼️",
+    "category": "AI绘画",
+    "subCategory": "热门推荐",
+    "url": "https://stability.ai",
+    "createdAt": "2025-05-18T03:53:58.723Z",
+    "updatedAt": "2025-05-18T03:53:58.723Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf0",
+    "title": "文心一格",
+    "description": "百度开发的AI艺术与创意平台",
+    "tags": [
+      {
+        "text": "免费",
+        "type": "free"
+      },
+      {
+        "text": "CN",
+        "type": "cn"
+      }
+    ],
+    "icon": "✨",
+    "category": "AI绘画",
+    "subCategory": "热门推荐",
+    "url": "https://yige.baidu.com",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf1",
+    "title": "ChatGPT写作",
+    "description": "OpenAI开发的AI写作助手，支持多种写作场景",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "✍️",
+    "category": "AI写作",
+    "subCategory": "热门推荐",
+    "url": "https://chat.openai.com",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf2",
+    "title": "写作猫",
+    "description": "中文AI写作助手，支持多种文体和场景",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "CN",
+        "type": "cn"
+      }
+    ],
+    "icon": "📝",
+    "category": "AI写作",
+    "subCategory": "热门推荐",
+    "url": "https://xiezuocat.com",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf3",
+    "title": "秘塔写作",
+    "description": "专业的AI论文写作和润色工具",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "CN",
+        "type": "cn"
+      }
+    ],
+    "icon": "📚",
+    "category": "AI写作",
+    "subCategory": "AI论文",
+    "url": "https://metaso.cn",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf4",
+    "title": "Runway",
+    "description": "专业的AI视频生成和编辑平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎥",
+    "category": "AI视频",
+    "subCategory": "热门推荐",
+    "url": "https://runway.ml",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf5",
+    "title": "Synthesia",
+    "description": "AI数字人视频生成平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎬",
+    "category": "AI视频",
+    "subCategory": "热门推荐",
+    "url": "https://www.synthesia.io",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf6",
+    "title": "HeyGen",
+    "description": "AI数字人视频制作平台",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎭",
+    "category": "AI视频",
+    "subCategory": "AI换脸",
+    "url": "https://www.heygen.com",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf7",
+    "title": "Microsoft Copilot",
+    "description": "微软推出的AI办公助手，集成Office全家桶",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "💼",
+    "category": "AI办公",
+    "subCategory": "热门推荐",
+    "url": "https://copilot.microsoft.com",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf8",
+    "title": "Notion AI",
+    "description": "Notion集成的AI助手，提升笔记和写作效率",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "📝",
+    "category": "AI办公",
+    "subCategory": "AI文档助手",
+    "url": "https://notion.ai",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bf9",
+    "title": "Beautiful.ai",
+    "description": "AI驱动的智能PPT设计工具",
+    "tags": [
+      {
+        "text": "推荐",
+        "type": "recommended"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎯",
+    "category": "AI办公",
+    "subCategory": "AI制作PPT",
+    "url": "https://www.beautiful.ai",
+    "createdAt": "2025-05-18T03:53:58.724Z",
+    "updatedAt": "2025-05-18T03:53:58.724Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bfa",
+    "title": "Character.ai",
+    "description": "创建和与AI角色对话的平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🗣️",
+    "category": "AI聊天",
+    "subCategory": "AI虚拟角色",
+    "url": "https://character.ai",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bfb",
+    "title": "Claude Chat",
+    "description": "Anthropic开发的AI助手，擅长学术和专业对话",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🤖",
+    "category": "AI聊天",
+    "subCategory": "热门推荐",
+    "url": "https://claude.ai",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bfc",
+    "title": "智谱清言",
+    "description": "智谱AI开发的中文大语言模型对话产品",
+    "tags": [
+      {
+        "text": "免费",
+        "type": "free"
+      },
+      {
+        "text": "CN",
+        "type": "cn"
+      }
+    ],
+    "icon": "💭",
+    "category": "AI聊天",
+    "subCategory": "热门推荐",
+    "url": "https://chatglm.cn",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bfd",
+    "title": "GitHub Copilot代码助手",
+    "description": "AI驱动的代码智能助手",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🐙",
+    "category": "AI编程",
+    "subCategory": "热门推荐",
+    "url": "https://github.com/features/copilot",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bfe",
+    "title": "Amazon CodeWhisperer",
+    "description": "亚马逊开发的AI代码助手",
+    "tags": [
+      {
+        "text": "免费",
+        "type": "free"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "💻",
+    "category": "AI编程",
+    "subCategory": "代码补全",
+    "url": "https://aws.amazon.com/codewhisperer",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266bff",
+    "title": "Replit AI",
+    "description": "在线IDE集成的AI编程助手",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "⚡",
+    "category": "AI编程",
+    "subCategory": "代码生成",
+    "url": "https://replit.com",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c00",
+    "title": "Murf AI",
+    "description": "专业的AI语音生成平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎤",
+    "category": "AI音频",
+    "subCategory": "文本到语音",
+    "url": "https://murf.ai",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c01",
+    "title": "Soundraw",
+    "description": "AI音乐创作平台",
+    "tags": [
+      {
+        "text": "推荐",
+        "type": "recommended"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎵",
+    "category": "AI音频",
+    "subCategory": "AI作曲",
+    "url": "https://soundraw.io",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c02",
+    "title": "Voice.ai",
+    "description": "实时AI语音转换工具",
+    "tags": [
+      {
+        "text": "新品",
+        "type": "new"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🗣️",
+    "category": "AI音频",
+    "subCategory": "AI语音克隆",
+    "url": "https://voice.ai",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c03",
+    "title": "PromptHero",
+    "description": "AI绘画提示词分享和探索平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎨",
+    "category": "AI提示词",
+    "subCategory": "绘画提示词",
+    "url": "https://prompthero.com",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c04",
+    "title": "MidJourney Prompt Helper",
+    "description": "MidJourney提示词助手",
+    "tags": [
+      {
+        "text": "免费",
+        "type": "free"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "💡",
+    "category": "AI提示词",
+    "subCategory": "绘画提示词",
+    "url": "https://prompt.noonshot.com",
+    "createdAt": "2025-05-18T03:53:58.725Z",
+    "updatedAt": "2025-05-18T03:53:58.725Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c05",
+    "title": "LearnPrompting",
+    "description": "提示词工程学习平台",
+    "tags": [
+      {
+        "text": "教程",
+        "type": "tutorial"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "📚",
+    "category": "AI提示词",
+    "subCategory": "热门推荐",
+    "url": "https://learnprompting.org",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c06",
+    "title": "Figma AI",
+    "description": "Figma内置的AI设计助手",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎨",
+    "category": "AI设计",
+    "subCategory": "UI设计",
+    "url": "https://www.figma.com/ai",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c07",
+    "title": "Canva AI",
+    "description": "Canva推出的AI设计助手",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎯",
+    "category": "AI设计",
+    "subCategory": "热门推荐",
+    "url": "https://www.canva.com",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c08",
+    "title": "Logoai",
+    "description": "AI驱动的logo设计工具",
+    "tags": [
+      {
+        "text": "推荐",
+        "type": "recommended"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎯",
+    "category": "AI设计",
+    "subCategory": "Logo设计",
+    "url": "https://www.logoai.com",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c09",
+    "title": "D-ID",
+    "description": "AI数字人视频生成平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "👤",
+    "category": "AI数字人",
+    "subCategory": "热门推荐",
+    "url": "https://www.d-id.com",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c0a",
+    "title": "Synthesia数字人平台",
+    "description": "AI数字人视频制作平台",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🎬",
+    "category": "AI数字人",
+    "subCategory": "数字人生成",
+    "url": "https://www.synthesia.io",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c0b",
+    "title": "魔珐科技",
+    "description": "专业的数字人定制和直播平台",
+    "tags": [
+      {
+        "text": "推荐",
+        "type": "recommended"
+      },
+      {
+        "text": "CN",
+        "type": "cn"
+      }
+    ],
+    "icon": "🤖",
+    "category": "AI数字人",
+    "subCategory": "数字人直播",
+    "url": "https://www.morphaai.com",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c0c",
+    "title": "ChatGPT Plugins",
+    "description": "ChatGPT官方插件商店",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🔌",
+    "category": "AI插件",
+    "subCategory": "热门推荐",
+    "url": "https://chat.openai.com/plugins",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c0d",
+    "title": "Merlin",
+    "description": "随处可用的AI助手浏览器插件",
+    "tags": [
+      {
+        "text": "推荐",
+        "type": "recommended"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "🧙‍♂️",
+    "category": "AI插件",
+    "subCategory": "浏览器插件",
+    "url": "https://merlin.foyer.work",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  },
+  {
+    "_id": "682959d6c2ed76e742266c0e",
+    "title": "Notion AI插件",
+    "description": "Notion集成的AI助手插件",
+    "tags": [
+      {
+        "text": "热门",
+        "type": "hot"
+      },
+      {
+        "text": "EN",
+        "type": "en"
+      }
+    ],
+    "icon": "📝",
+    "category": "AI插件",
+    "subCategory": "办公插件",
+    "url": "https://www.notion.so/product/ai",
+    "createdAt": "2025-05-18T03:53:58.726Z",
+    "updatedAt": "2025-05-18T03:53:58.726Z",
+    "__v": 0,
+    "version": Number,
+    "lastUpdated": Date
+  }
+]
